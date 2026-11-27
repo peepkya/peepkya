@@ -4,7 +4,7 @@
 
 # Hi there, I am Prashant aka PPK!
 
-AI-native software professional,  mental health activist, blogger, translator, trekker.\
+AI-native software professional,  mental health activist, blogger, translator, trekker.
 
 I am also 
 **[Anthropic Claude certified AI architect (CCAR-P)]().**
